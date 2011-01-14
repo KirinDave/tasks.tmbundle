@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Style: Skipped symbol</string>
+	<key>scope</key>
+	<string>punctuation.definition.x.tasks</string>
+	<key>settings</key>
+	<dict>
+		<key>fontStyle</key>
+		<string>normal</string>
+		<key>foreground</key>
+		<string>#FF7365</string>
+	</dict>
+	<key>uuid</key>
+	<string>81468A50-837A-41C5-9A35-A871052B21CB</string>
+</dict>
+</plist>

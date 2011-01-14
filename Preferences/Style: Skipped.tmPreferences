@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Style: Skipped</string>
+	<key>scope</key>
+	<string>meta.task.skipped.tasks</string>
+	<key>settings</key>
+	<dict>
+		<key>fontStyle</key>
+		<string>italic</string>
+		<key>foreground</key>
+		<string>#CCCCCC</string>
+	</dict>
+	<key>uuid</key>
+	<string>C72AB4AA-9104-4572-99DE-E41164D244F5</string>
+</dict>
+</plist>
